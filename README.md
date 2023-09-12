@@ -2,8 +2,8 @@
 This project is an analysis algorithm that utilises skills based on various Data Structures and Algorithms. 
 
 The main algirithms included in this project:
-**- Counting Sort
-- Radix Sort**
+- **Counting Sort**
+- **Radix Sort**
 
 Main function is **analyze(results, roster, score)** where: 
   - Input **results** is a lists of lists denoted by **[team1, team2, score]** where:
